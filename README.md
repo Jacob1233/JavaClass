@@ -1,3 +1,3 @@
 # JavaClass
 
-Task from Programming with Java
+Tasks from Programming with Java
